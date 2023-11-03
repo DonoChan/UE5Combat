@@ -7,6 +7,8 @@
 #include "CharacterType.h"
 #include "SecCharacter.generated.h"
 
+//testing 02
+
 class USpringArmComponent;
 class UCameraComponent;
 class AWeapon;
