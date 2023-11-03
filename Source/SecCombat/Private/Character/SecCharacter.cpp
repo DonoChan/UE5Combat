@@ -7,6 +7,8 @@
 #include "Animation/AnimMontage.h"
 #include "Character/SecCharacter.h"
 
+//testing
+
 ASecCharacter::ASecCharacter()
 {
 	PrimaryActorTick.bCanEverTick = true;
